@@ -4,15 +4,14 @@ html {
   line-height: 1.5;
 }
 
-
 img {
-  width:100%;
+  width: 100%;
 }
 
-h1,h2 {
+h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: 'Patua One', sans-serif;
+  font-family: "Patua One", sans-serif;
 }
 
 figcaption {
@@ -27,7 +26,7 @@ nav {
 }
 
 nav ol {
-  list-style-type:none;
+  list-style-type: none;
 }
 
 nav a {
@@ -39,6 +38,7 @@ nav a:hover {
   color: #b42885;
   text-decoration: underline;
 }
+
 .intro {
   font-size: 1rem;
 }
